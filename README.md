@@ -7,3 +7,6 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 Please for this repository and then issue Pull request
+
+
+Adding a line a rebaseing
